@@ -2,8 +2,8 @@ import pandas as pd
 import os
 
 # Percorsi dei file
-input_csv = 'csv/f1_search/search3.csv'
-output_csv = 'csv/f1_search/search3_sorted.csv'
+input_csv = 'csv/f1_search/search3_7.csv'
+output_csv = 'csv/f1_search/search3_7_sorted.csv'
 
 try:
     # 1. Leggi il CSV
