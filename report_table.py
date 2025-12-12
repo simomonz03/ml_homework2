@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import pandas as pd
-name='report_bestcomb4_999'
+name='report_bestcomb5Nonorm_555'
 input_filename=f'csv/report/{name}.csv'
 def generate_styled_table_from_csv(file_path):
     df = pd.read_csv(file_path)
