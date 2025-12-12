@@ -1,0 +1,10 @@
+,precision,recall,f1-score,support
+goalpost,0.0,0.0,0.0,119
+ball,0.67,0.34,0.45,162
+robot,0.79,1.0,0.88,348
+goalspot,0.0,0.0,0.0,96
+centerspot,0.0,0.0,0.0,37
+micro avg,0.77,0.53,0.63,762
+macro avg,0.29,0.27,0.27,762
+weighted avg,0.51,0.53,0.5,762
+samples avg,0.82,0.62,0.66,762
