@@ -1,0 +1,2 @@
+batch_size,layer_number,kernel_dim,pool_dim,lr,fc1,fc2,mae_Score
+16,5,7,3,0.0001,256,256,0.02361554652452469
