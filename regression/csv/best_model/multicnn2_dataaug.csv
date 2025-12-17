@@ -1,0 +1,3 @@
+batch_size,layer_number,kernel_dim,pool_dim,lr,fc1,fc2,activation,dropout,loss,seed,best_mae_score,best_r2_score
+16,5,7,2,0.0001,256,256,relu,0.2,mae,42,0.05330926552414894,0.8433777093887329
+16,5,7,2,0.0001,256,256,relu,0.2,mae,555,0.05296128988265991,0.8452856540679932

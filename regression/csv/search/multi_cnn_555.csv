@@ -1,0 +1,3 @@
+batch_size,layer_number,kernel_dim,pool_dim,lr,fc1,fc2,activation,dropout,mae_Score,R2_Score
+16,5,7,3,0.0001,512,256,relu,0.2,0.08340156078338623,0.7282896041870117
+16,5,7,3,1e-05,512,256,relu,0.2,0.14482872188091278,0.40297672152519226
